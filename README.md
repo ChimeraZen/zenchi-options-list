@@ -58,10 +58,10 @@ The ZenChi OptionsList component is a simple ReactJS droplist .
 This component can be initialized using `import { OptionsList } from 'zenchi-options-list'`
 
 ```
-<OptionsList>
-  <li>Option 1</li>
-  <li>Option 2</li>
-</OptionsList>
+&lt;OptionsList&gt;
+  &lt;li&gt;Option 1&lt;/li&gt;
+  &lt;li&gt;Option 2&lt;/li&gt;
+&lt;/OptionsList&gt;
 ```
 
 

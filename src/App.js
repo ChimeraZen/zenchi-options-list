@@ -8,7 +8,7 @@ import './styles.css'
 
 class App extends Component {
   componentDidMount() {
-    const readMe = 'https://raw.githubusercontent.com/ChimeraZen/zenchi-github-readme/master/README.md'
+    const readMe = 'https://raw.githubusercontent.com/ChimeraZen/zenchi-options-list/master/README.md'
     
     fetch(readMe)
       .then(res => res.text())
