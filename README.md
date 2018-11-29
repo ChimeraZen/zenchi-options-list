@@ -1,6 +1,6 @@
-# ZenChi Apps
+# ZenChi OptionsList
   
-**Description**:  ZenChi Options List is a simple dropdown list with a vertical ellipsis HTML entity for an icon
+**Description**:  ZenChi OptionsList is a simple dropdown list with a vertical ellipsis HTML entity for an icon
 
 **Version**:      [0.1.0](#v010)  
 **Author**:       Elijah Liedtke (Chimera.Zen)  
@@ -28,7 +28,7 @@ I hope you enjoy this app!
 
 &nbsp;
 ### Installation
-1. Navigate to your app directory and install the ZenChi Options List package using:
+1. Navigate to your app directory and install the ZenChi OptionsList package using:
 ```
 npm i zenchi-options-list
 ```
@@ -53,7 +53,7 @@ npm uninstall zenchi-options-list
 ## Components
 
 ### OptionsList
-The ZenChi Options List component is a simple ReactJS droplist .
+The ZenChi OptionsList component is a simple ReactJS droplist .
 
 This component can be initialized using `import { OptionsList } from 'zenchi-options-list'`
 
